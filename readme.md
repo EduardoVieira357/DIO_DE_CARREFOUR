@@ -1,5 +1,5 @@
 Aula de "**Análise de dados com Python e Pandas**"
-com a sensacional **Professora Fernanda Santos**, no Bootcamp Banco Carrefour Data Engineer.
+com a sensacional **Professora Fernanda Santos**, no Bootcamp Banco Carrefour Data Engineer, na **DIGITAL INNOVATION ONE**.
 
 
 
